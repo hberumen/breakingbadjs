@@ -1,3 +1,7 @@
+# Build - bloqueada por plataforma.
+
+https://happy-bartik-1a575c.netlify.app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
